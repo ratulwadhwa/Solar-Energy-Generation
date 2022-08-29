@@ -1,0 +1,28 @@
+BuildingNum,BuildingName,MonBuildNum,Capacity (kW),Installed,Operational,Latitude,Longitude
+1,Sports,1_Sports,230,Apr-17,Mar-18,-37.91293786,145.1365398
+1 (C),Pavillion,1 (C)_Pavillion,60,Aug-20,Sep-20,-37.9110279,145.1376626
+2,Robert Blackwood Hall,2_Robert Blackwood Hall,100,Dec-17,Aug-18,-37.91278892,145.135289
+10,Campus Centre,10_Campus Centre,66,Jul-12,Jan-16,-37.91184064,145.1330344
+12,Law,12_Law,100,Nov-18,Mar-20,-37.91294266,145.1319831
+13,Medicine,13_Medicine,60,May-18,Mar-20,-37.91227206,145.1305051
+25,Science,25_Science,40,Dec-17,Sep-18,-37.91064165,145.132228
+27,Physics,27_Physics,25,May-18,Dec-18,-37.91020808,145.1308255
+30,Hargrave,30_Hargrave,25,Dec-16,Mar-17,-37.90975461,145.1321026
+37,Engineering 37,37_Engineering 37,50,Jun-18,Aug-18,-37.90897067,145.1336159
+40,Buildings and Property,40_Buildings and Property,25,,Jan-19,-37.90826271,145.134087
+41,Veterinary,41_Veterinary,100,May-18,Dec-19,-37.90844341,145.136096
+56,Buildings and Property,56_Buildings and Property,56,Jul-15,Jan-16,-37.90829425,145.134798
+67,Matheson,67_Matheson,100,Dec-17,Mar-20,-37.91297414,145.1342995
+70,MuARC,70_MuARC,30,Dec-17,Oct-18,-37.90928707,145.1344533
+72,Engineering 72,72_Engineering 72,110,Dec-16,Mar-17,-37.90929893,145.132089
+76,STRIP 2,76_STRIP 2,25,,Oct-19,-37.9113178,145.1292523
+77,STRIP 3,77_STRIP 3,35,Dec-18,Dec-18,-37.91175532,145.1291841
+80,N1 Carpark,80_N1 Carpark,600,Oct-19,Oct-19,-37.90810035,145.1312468
+86,Green Chemical Futures,86_Green Chemical Futures,20,May-18,Dec-18,-37.90987212,145.1310616
+87,Turner Hall,87_Turner Hall,50,Mar-18,Sep-18,-37.91010843,145.1377309
+88,Holman Hall,88_Holman Hall,55,Mar-18,Sep-18,-37.91118554,145.1358738
+89,Campbell Hall,89_Campbell Hall,45,Mar-18,Sep-18,-37.91106132,145.1347052
+90,Logan Hall,90_Logan Hall,35,Mar-18,Sep-19,-37.91171073,145.1358701
+92,Learning and Teaching Building,92_Learning and Teaching Building,175,,Jun-18,-37.91401905,145.1323963
+94,Woodside Building,94_Woodside Building,200,Feb-20,,-37.90961037,145.1352845
+96,Chancellery,96_Chancellery,100,Mar-20,Oct-20,-37.91230168,145.1347328
